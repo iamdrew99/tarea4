@@ -1,0 +1,26 @@
+body{
+    background-color: rosybrown;
+    margin: auto;
+}
+h1{
+    color: red;
+    text-decoration: underline;
+    text-align: center;
+}
+span{
+    color: red;
+}
+hr{
+    border-color: violet;
+    border-width: 3px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 13px;
+    color: brown;
+}
+img{
+    margin-left: 350px;
+    
+}
